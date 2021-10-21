@@ -1,15 +1,14 @@
+
 ---
 categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-#description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-#  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-#  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-#  consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
-image: CV.jpg
+image: CV2.jpg
 keywords: ""
 slug: blog4
 title: Curriculum Vitae
 ---
+
+If you require any further information, please do not hesitate to contact me.
