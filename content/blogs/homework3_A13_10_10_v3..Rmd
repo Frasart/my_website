@@ -75,7 +75,6 @@ Our dataframe `yield_curve` has five columns (variables):
 
 ## Plotting the yield curve
 
-This may seem long but it should be easy to produce the following three plots
 
 ### Yields on US rates by duration since 1960
 ```{r}
@@ -129,7 +128,7 @@ According to [Wikipedia's list of recession in the United States](https://en.wik
 The yield curve actually becomes flatten before these recessions. Normally, the short-term interest rate hikes when the Fed rises the overnight rate to curb the inflation or any type of bubble. However, a flattening yield curve doesn't necessarily imply a recession. If the technology can continue to develop organically, the rise in aggregate demand may outweigh the effects of reducing aggregate supply. In that way, the recession may not occur. In 2006, short-term (3 months) once yields more than longer term (10 years) debt.
 
 
-- For the first, the code below creates a dataframe with all US recessions since 1946
+Let's create a dataframe with all US recessions since 1946
 
 ```{r setup_US-recessions, warning=FALSE}
 
@@ -159,9 +158,6 @@ yield_10y <- yield_curve %>%
 
 #combine the two data sets so that they are aligned with same date
 yield_3_10 <- merge.data.frame(x = yield_3m, y = yield_10y, by = 'date', all.x = T)
-
-#check new data set                    
-yield_3_10 
 
 #use mutate to calculate 10y - 3m yield difference
 yield_diff_data <-yield_3_10 %>%
