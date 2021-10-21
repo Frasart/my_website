@@ -5,7 +5,7 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-  banner: banner.jpg
+  banner:
     buttonText: Discover More
     subtitle: |-
       A deep dive into my experiences, my interests, and my passions.
@@ -57,14 +57,14 @@ params:
       - name: Log In
         url: '#'
     links:
-      - name: Home
-        url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+#      - name: Home
+#        url: '#'
+#      - name: Blogs
+#       url: blogs
+#      - name: Generic Blog
+#        url: blogs/ipsum
+#      - name: Elements
+#        url: elements.html
     menu: Menu
     subtitle: Sartori
     title: Francesco
