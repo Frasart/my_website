@@ -78,11 +78,11 @@ params:
       - image: yields.jpg
         subtitle: An analysis of the US yield curve
         title: Finance
-        url: blogs/homework3_A13_10_10_v3
+        url: blogs/homework3_A13_10_10_v3.
       - image: articles.jpg
         title: My articles and projects
         url: blogs/blog3
-      - image: passions.jpg
-        title: My passions
+      - image: CV.jpg
+        title: Curriculum Vitae
         url: blogs/blog4
 

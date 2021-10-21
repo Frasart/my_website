@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: ""
 draft: false
-image: pic10.jpg
+#image: pic10.jpg
 keywords: ""
 slug: blog1
 title: About me
@@ -27,7 +27,4 @@ With regards to my professional experiences, I have done several internships in 
 I am really passionate about sports, especially motorsports such as Formula 1 and MotoGP. I have also a great passion for food. I am really into michelin stars haute cuisine restaurants and have been to quite a few so far. I also enjoy to cook for myself or others.
 
 
-Please find attached my CV below.
-
-![CV](C:\Users\franc\Desktop\GITHUB\my_website\static\img\blogs)
 

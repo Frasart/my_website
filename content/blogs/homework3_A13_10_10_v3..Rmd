@@ -6,7 +6,7 @@ categories:
 date: "2021-09-30"
 description: Risk-Return of DJIA stocks # the title that will show up once someone gets to this page
 draft: false
-image: spices.jpg
+#image: spices.jpg
 keywords: ""
 slug: homework3_A13_10_10_v3. # slug is the shorthand URL address... no spaces plz
 title: Finance
@@ -46,8 +46,6 @@ library(openintro)
 ```
 
 
-
-# Challenge 1: Yield Curve inversion
 
 Every so often, we hear warnings from commentators on the "inverted yield curve" and its predictive power with respect to recessions. An explainer what a [inverted yield curve is can be found here](https://www.reuters.com/article/us-usa-economy-yieldcurve-explainer/explainer-what-is-an-inverted-yield-curve-idUSKBN1O50GA). If you'd rather listen to something, here is a great podcast from [NPR on yield curve indicators](https://www.podbean.com/media/share/dir-4zgj9-6aefd11)
 
