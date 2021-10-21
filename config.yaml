@@ -50,10 +50,10 @@ params:
   image: ''
   name: Francesco Sartori
   navigation:
+#    button1:
+#      - name: Discover More
+#        url: blogs
     button1:
-      - name: Discover More
-        url: blogs
-    button2:
       - name: Log In
         url: '#'
     links:
