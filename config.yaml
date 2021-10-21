@@ -5,7 +5,7 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-  banner:
+  banner: banner.jpg
     buttonText: Discover More
     subtitle: |-
       A deep dive into my experiences, my interests, and my passions.
